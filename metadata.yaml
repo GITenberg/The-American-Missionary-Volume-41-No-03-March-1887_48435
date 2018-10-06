@@ -20,5 +20,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The American Missionary — Volume 41, No. 03, March, 1887
 url: http://www.gutenberg.org/ebooks/48435
